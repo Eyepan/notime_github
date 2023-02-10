@@ -1,5 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.notime_github">
+	<!-- <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> -->
+
    <application
         android:label="notime_github"
         android:name="${applicationName}"
