@@ -25,7 +25,7 @@ class Login extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: <Widget>[
                   Text(
-                    'Hello there,\nWelocome back',
+                    'Hello there,\nWelcome back',
                     style: TextStyle(
                       fontSize: 35,
                       fontWeight: FontWeight.bold,
