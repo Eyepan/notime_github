@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "256738282784",
+    "project_id": "notime-github",
+    "storage_bucket": "notime-github.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256738282784:android:501faeef3d38369f645b45",
+        "android_client_info": {
+          "package_name": "com.example.flutter_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256738282784-9ubs5q01hm54ng0vpgm5ol7crkd2u84n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASdWCNmd0wMiPyIHYSyPM5w_VeJXgC9GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256738282784-9ubs5q01hm54ng0vpgm5ol7crkd2u84n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "256738282784-2mu22u31vmruo8k0rjd3501p0ka5gmr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterNote"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256738282784:android:1b3a4b58b095e10d645b45",
+        "android_client_info": {
+          "package_name": "com.example.notime_github"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256738282784-9ubs5q01hm54ng0vpgm5ol7crkd2u84n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASdWCNmd0wMiPyIHYSyPM5w_VeJXgC9GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256738282784-9ubs5q01hm54ng0vpgm5ol7crkd2u84n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "256738282784-2mu22u31vmruo8k0rjd3501p0ka5gmr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterNote"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
